@@ -1,0 +1,16 @@
+{
+    "name": "tcs010/php-hello",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Tcs010\\PhpHello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tcs010",
+            "email": "46668257+tcs010@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
